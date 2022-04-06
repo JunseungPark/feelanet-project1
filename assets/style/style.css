@@ -13,7 +13,7 @@
 }
 .header .header_wrap .header_hamburger .hamburger_wrap{
   position: relative;
-  width: 5vw;
+  width: 4vw;
   cursor: pointer;
 }
 .header .header_wrap .header_hamburger .hamburger_wrap .ham{
@@ -42,7 +42,7 @@
   border-radius: 3px;
 }
 .header .header_wrap .header_logo{
-  width: 80vw;
+  width: 82vw;
 }
 .header .header_wrap .header_logo .logo_wrap{
   margin-top: 1vh;
